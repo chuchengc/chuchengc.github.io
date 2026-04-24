@@ -11,7 +11,7 @@ Cheng Chu is currently a postdoctoral researcher at North Carolina State Univers
 
 Cheng's research has received the Best Paper Award, 3rd Place, at the 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), and was selected as a Best Paper Finalist at the 2024 Design Automation Conference (DAC).
 
-**I am always open to research collaborations and happy to chat about potential research ideas.**
+<strong><em><u>I am always open to research collaborations and happy to chat about potential research ideas.</u></em></strong>
 
 News
 ======
@@ -24,5 +24,12 @@ News
 - OFHE: An Electro-Optical Accelerator for Discretized TFHE was accepted by ISLPED 2024. 08/2024 
 - TITAN: A Distributed Large-Scale Trapped-Ion NISQ Computer was chosen as the best paper nominee by DAC 2024. 06/2024 
 - I won the Jose Blakeley PhD Summer Research Award ($4400) 05/2024 
-- TITAN: A Distributed Large-Scale Trapped-Ion NISQ Computer is accepted by DAC 2024. 02/2024 
+- TITAN: A Distributed Large-Scale Trapped-Ion NISQ Computer is accepted by DAC 2024. 02/2024
+
+Honors and Awards
+======
+- 2024 &nbsp;&nbsp; DAC Best Paper Finalists
+- 2024 &nbsp;&nbsp; 61st DAC Young Fellow
+- 2024 &nbsp;&nbsp; Jose Blakeley PhD Summer Research Award
+- 2023 &nbsp;&nbsp; QCE Best Paper Award - 3rd Place
 
