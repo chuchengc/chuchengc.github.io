@@ -5,12 +5,7 @@ permalink: /others/
 author_profile: true
 ---
 
-## Honors and Awards
 
-- 2024 &nbsp;&nbsp; DAC Best Paper Finalists
-- 2024 &nbsp;&nbsp; 61st DAC Young Fellow
-- 2024 &nbsp;&nbsp; Jose Blakeley PhD Summer Research Award
-- 2023 &nbsp;&nbsp; QCE Best Paper Award - 3rd Place
 
 ## Professional Activities and Service
 
