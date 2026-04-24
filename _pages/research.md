@@ -19,23 +19,50 @@ author_profile: true
 }
 
 .research-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
   background: #1f2529;
-  border-radius: 6px;
-  padding: 1.6rem 1.8rem;
+  border-radius: 8px;
+  padding: 1.4rem 1.6rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
   border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
-.research-card h2 {
+.research-card img {
+  width: 220px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+.research-text {
+  flex: 1;
+}
+
+.research-text h2 {
   margin-top: 0;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.7rem;
   font-size: 1.25rem;
   color: #ffffff;
 }
 
-.research-card p {
+.research-text p {
   margin-bottom: 0;
   line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .research-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .research-card img {
+    width: 100%;
+    height: auto;
+  }
 }
 
 @media (prefers-color-scheme: light) {
@@ -45,55 +72,47 @@ author_profile: true
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   }
 
-  .research-card h2 {
+  .research-text h2 {
     color: #222222;
   }
 }
 </style>
 
-# Research
 
 <div class="research-intro">
 
-My research focuses on quantum computing systems, with an emphasis on quantum computer architecture, quantum security, quantum compilation, and quantum machine learning. I am interested in building practical and secure quantum computing systems by jointly considering hardware characteristics, noise behavior, circuit design, and system-level optimization.
+My research focuses on quantum computing, with an emphasis on quantum computer architecture, quantum system security, and quantum machine learning. I am interested in building practical and secure quantum computing systems by jointly considering hardware characteristics, noise behavior, circuit design, and system-level optimization.
 
 </div>
 
 <div class="research-grid">
 
-<div class="research-card">
-<h2>Quantum Computer Architecture and Compilation</h2>
-<p>
-I study architecture-aware compilation techniques for near-term and fault-tolerant quantum computers. My work explores how hardware constraints, gate fidelity, qubit mapping, routing, and execution time affect the performance of quantum programs. A key goal is to design compilation methods that improve program success rates while reducing unnecessary circuit overhead.
-</p>
-</div>
 
 <div class="research-card">
-<h2>Trapped-Ion Quantum Computing Systems</h2>
-<p>
-I work on system-level modeling and optimization for trapped-ion quantum computers. This includes studying ion-chain characteristics, native gate execution, motional modes, cooling and heating dynamics, and layout-aware scheduling. My research aims to better understand how trapped-ion hardware properties can be used to improve quantum circuit execution.
-</p>
+  <img src="/images/quantum_architecture.jpg" alt="Quantum Computer Architecture">
+
+  <div class="research-text">
+    <h2>Quantum Computer Architecture</h2>
+    <p>
+      Quantum computer architecture focuses on building reliable, scalable and efficient quantum computing systems by connecting quantum algorithms with the realities of physical hardware. My research studies how device constraints, gate fidelity, noise variation, qubit mapping, circuit scheduling, and execution time affect quantum program performance. By jointly considering architecture, compilation, and hardware-level error behavior, I aim to develop system-level techniques that improve the practicality of quantum computing on near-term and future devices.
+    </p>
+  </div>
 </div>
 
-<div class="research-card">
-<h2>Quantum Security</h2>
-<p>
-I investigate security threats in quantum computing systems, including attacks against quantum neural networks, cloud-based quantum computing, and quantum error mitigation workflows. My research studies how adversaries may exploit quantum noise, circuit synthesis, or model behavior, and how robust defenses can be designed for emerging quantum platforms.
-</p>
-</div>
 
 <div class="research-card">
-<h2>Quantum Machine Learning</h2>
-<p>
-I explore the design and evaluation of quantum machine learning models on noisy intermediate-scale quantum devices. My work includes quantum neural networks, quantum generative models, and learning architectures that account for hardware noise, circuit depth, and limited quantum resources.
-</p>
+  <img src="/images/quantum_security.jpg" alt="Quantum System Security">
+
+  <div class="research-text">
+    <h2>Quantum System Security</h2>
+    <p>
+      Quantum system security aims to uncover vulnerabilities in quantum computing systems and develop targeted defense strategies. Quantum computers have shown the potential to address important problems that are difficult or infeasible for classical computers, making them increasingly important for scientific discovery, optimization, machine learning, and secure computation. As quantum computing systems become more capable and widely accessible through cloud platforms, their security becomes a critical concern. This research direction examines how adversaries may exploit quantum noise, circuit structure, model behavior, compilation processes, and error mitigation workflows, while developing principled defenses to improve the robustness, reliability, and trustworthiness of emerging quantum platforms.
+    </p>
+  </div>
 </div>
 
-<div class="research-card">
-<h2>Hybrid Continuous-Discrete Variable Quantum Computing</h2>
-<p>
-I am also interested in hybrid continuous-variable and discrete-variable quantum computing systems. This direction studies how qubits and bosonic modes can be controlled together to support new quantum algorithms, simulations, and control strategies. My work considers hardware-aware control, noise modeling, and efficient use of hybrid quantum resources.
-</p>
-</div>
+
+
+
 
 </div>
