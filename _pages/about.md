@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Cheng Chu is currently a postdoctoral researcher at North Carolina State University, where he works with [Yuan Liu](https://yuanliu.group/) and [Huiyang Zhou](https://hzhou.wordpress.ncsu.edu/). He received his Ph.D. from Indiana University Bloomington in January 2026, advised by [Fan Chen](https://homes.luddy.indiana.edu/fc7/) and [Lei Jiang](https://unchartedrlab.github.io/). He received his M.S. and B.S. degrees from Hefei University of Technology, Hefei, Anhui, China, in 2021 and 2018, respectively. His research lies primarily in quantum computing, with an emphasis on quantum computer architecture, quantum system security, and quantum neural network design.
+Cheng Chu is currently a postdoctoral researcher at North Carolina State University, where he works with Prof. [Yuan Liu](https://yuanliu.group/) and Prof. [Huiyang Zhou](https://hzhou.wordpress.ncsu.edu/). He received his Ph.D. from Indiana University Bloomington in January 2026, advised by Prof. [Fan Chen](https://homes.luddy.indiana.edu/fc7/) and Prof. [Lei Jiang](https://unchartedrlab.github.io/). He received his M.S. and B.S. degrees from Hefei University of Technology, Hefei, Anhui, China, in 2021 and 2018, respectively. His research lies primarily in quantum computing, with an emphasis on quantum computer architecture, quantum system security, and quantum neural network design.
 
 Cheng's research has received the Best Paper Award, 3rd Place, at the 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), and was selected as a Best Paper Finalist at the 2024 Design Automation Conference (DAC).
 
