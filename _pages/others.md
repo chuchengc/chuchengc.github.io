@@ -23,6 +23,7 @@ Journal Reviewer:
 
 - Quantum Information Processing
 - Advanced Quantum Technologies
+- IEEE Security & Privacy
 
 MISC:
 
