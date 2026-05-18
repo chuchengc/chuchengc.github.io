@@ -18,6 +18,7 @@ Conference Reviewer:
 - ICCAD 2024
 - QCE 2024
 - DAC 2025
+- FOCS 2026
 
 Journal Reviewer:
 
