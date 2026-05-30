@@ -14,7 +14,7 @@ Cheng's research has received the Best Paper Award, 3rd Place, at the 2023 IEEE 
 <strong><em><u>I am always open to research collaborations and happy to chat about potential research ideas.</u></em></strong>
 
 <strong><em><u><span style="color: red;">
-I am currently recruiting motivated students interested in quantum computing, quantum system security, and AI for science. If you are interested, please feel free to contact me at chucheng810@gmail.com.
+I am currently recruiting motivated students interested in quantum computing, quantum system security, and quantum ML. If you are interested, please feel free to contact me at chucheng810@gmail.com.
 </span></u></em></strong>
 
 News
